@@ -10,7 +10,7 @@
 
 ## Features
 ### Instances
-> Like MO2 or Multi-MC you can create full seperate instances of mods for different playthroughs or modding experinces.
+> Like MO2 or Multi-MC you can create full seperate instances of mods for different playthroughs or modding experiences.
 ### Server and Client mod selection
 > You can specify the exact client mods you want, along with server mods.
 ### Built in server and launcher support
