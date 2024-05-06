@@ -203,6 +203,7 @@ namespace TarkovModManager
             // 
             // addr_textbx
             // 
+            this.addr_textbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.addr_textbx.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(29)))), ((int)(((byte)(26)))));
             this.addr_textbx.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.addr_textbx.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

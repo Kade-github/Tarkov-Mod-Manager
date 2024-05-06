@@ -19,6 +19,23 @@ namespace TarkovModManager
 
         public void LoadInstances()
         {
+            // Check to see if our mods folder is good
+            
+            if (!Directory.Exists(Settings.Instance.ModPath))
+                Directory.CreateDirectory(Settings.Instance.ModPath);
+            
+            if (!Directory.Exists(Settings.Instance.ModPath + "/user"))
+                Directory.CreateDirectory(Settings.Instance.ModPath + "/user");
+            
+            if (!Directory.Exists(Settings.Instance.ModPath + "/user/mods"))
+                Directory.CreateDirectory(Settings.Instance.ModPath + "/user/mods");
+            
+            if (!Directory.Exists(Settings.Instance.ModPath + "/BepInEx"))
+                Directory.CreateDirectory(Settings.Instance.ModPath + "/BepInEx");
+            
+            if (!Directory.Exists(Settings.Instance.ModPath + "/BepInEx/plugins"))
+                Directory.CreateDirectory(Settings.Instance.ModPath + "/BepInEx/plugins");
+        
             SuspendLayout();
             // Load Instances
             
