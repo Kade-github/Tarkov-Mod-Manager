@@ -8,6 +8,7 @@ namespace TarkovModManager
 {
     static class Program
     {
+        public static string Version = "1.0.0";
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

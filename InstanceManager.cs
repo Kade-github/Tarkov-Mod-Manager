@@ -106,6 +106,8 @@ namespace TarkovModManager
         public InstanceManager()
         {
             InitializeComponent();
+
+            version_text.Text = "v" + Program.Version;
             
             instance = this;
             
