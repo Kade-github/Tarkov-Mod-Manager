@@ -4,6 +4,10 @@
 
 > A simple SPT Mod Manager that I made for a friend.
 
+# Previews
+
+![image_preview](https://github.com/Kade-github/Tarkov-Mod-Manager/assets/26305836/f93c251d-c3ae-41ca-8265-004b19e5ecc7)
+
 ## Features
 ### Instances
 > Like MO2 or Multi-MC you can create full seperate instances of mods for different playthroughs or modding experinces.
@@ -30,6 +34,6 @@ You can find the latest release [here](https://github.com/Kade-github/Tarkov-Mod
 - Run the mod manager and go into settings, then browse for those said paths (along with spt itself)
 - Drop your mods into the mods folder, it should look like this:
 
-(image pls)
+![image](https://github.com/Kade-github/Tarkov-Mod-Manager/assets/26305836/eb1b7dfc-9ac3-4b34-9cee-7802276ef357)
 
 - You now can create instances and add mods into those instances.
