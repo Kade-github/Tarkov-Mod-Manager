@@ -30,6 +30,6 @@ You can find the latest release [here](https://github.com/Kade-github/Tarkov-Mod
 - Run the mod manager and go into settings, then browse for those said paths (along with spt itself)
 - Drop your mods into the mods folder, it should look like this:
 
-(image pls)
+![image](https://github.com/Kade-github/Tarkov-Mod-Manager/assets/26305836/eb1b7dfc-9ac3-4b34-9cee-7802276ef357)
 
 - You now can create instances and add mods into those instances.
